@@ -1,0 +1,63 @@
+body
+{
+    background-image: url(https://images8.alphacoders.com/538/538084.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+img
+{
+    text-align: center;
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 50%;
+    border: 4px ridge rgb(228, 231, 225);
+    padding: 2px;
+
+}
+
+p
+{
+    color:antiquewhite;
+    text-align:center;
+    background-size: contain;
+    background-color: brown;
+    border: 60px whitesmoke;
+    padding: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: x-large;
+    font-style: oblique;
+}
+form
+{
+    text-align: center;
+    color:brown;
+
+}
+h1
+{
+    text-align: center;
+    border: 30px whitesmoke;
+    padding:50px;
+    color:rgba(118, 13, 118, 0.416);
+    background-color: beige;
+    border-radius:80px purple;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 30px;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+label
+{
+    color: rgb(38, 5, 84);
+    font: 1em sans-serif;
+    display: block;
+    font-size:smaller;
+    padding: 30px;
+}
